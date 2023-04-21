@@ -1,0 +1,2 @@
+# lottog
+Lotto Log Service
