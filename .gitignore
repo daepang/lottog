@@ -41,10 +41,10 @@ yarn-error.log*
 next-env.d.ts
 
 # Zero-installs
-.yarn/*
-!.yarn/cache
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+#.yarn/*
+#!.yarn/cache
+#!.yarn/patches
+#!.yarn/plugins
+#!.yarn/releases
+#!.yarn/sdks
+#!.yarn/versions
